@@ -2,7 +2,7 @@
 Contributors: strangerstudios
 Tags: pmpro, paid memberships pro, members, memberships, text message, notification
 Requires at least: 3.5
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 Stable tag: .1
 
 Set up admin text message alerts by level for when members checkout out on your site.

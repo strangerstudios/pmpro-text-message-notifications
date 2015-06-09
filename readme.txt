@@ -1,4 +1,4 @@
-=== Paid Memberships Pro - Member Checkout Admin Text Message ===
+=== Paid Memberships Pro - Text Message Notifications ===
 Contributors: strangerstudios
 Tags: pmpro, paid memberships pro, members, memberships, text message, notification
 Requires at least: 3.5

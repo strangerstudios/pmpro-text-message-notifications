@@ -159,7 +159,7 @@ function pmprosms_options_page()
 ?>
 <div class="wrap">
 	<div id="icon-options-general" class="icon32"><br></div>
-	<h2>Paid Memberships Pro - Text Message Notifications Settings</h2>		
+	<h2>Paid Memberships Pro - Member Checkout Admin Text Message Settings</h2>		
 	
 	<?php if(!empty($msg)) { ?>
 		<div class="message <?php echo $msgt; ?>"><p><?php echo $msg; ?></p></div>
